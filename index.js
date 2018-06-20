@@ -8,7 +8,7 @@ const currentUser = 'Edsger Dijkstra';
  
 ...
  
-const shortGreeting = 'ED' ;
+const shortGreeting = 'Welcome, ' ;
  
 shortGreeting;
 //=> "Welcome, E!"
